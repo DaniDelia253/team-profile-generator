@@ -1,0 +1,22 @@
+h1 {
+    background-image: radial-gradient(#5bc0de, white);
+    font-weight: bold;
+    color: rgb(0, 0, 36);
+}
+#card-background {
+    padding: 0;
+}
+
+
+.card-header {
+    color: white;
+}
+
+#employeeInfo {
+    background-color: white;
+}
+
+#employeeInfo p {
+    padding: 2px 15px;
+    margin: 0;
+}
