@@ -33,6 +33,9 @@
   ## Usage 
   
   Run node index.js from the command line. Respond to all prompts. View the Team Profile Site through the browser by opening the HTML file generated in /dist. 
+
+  [Click here to see a video walkthrough of using this app!](https://watch.screencastify.com/v/UdiSXV8gTWjhGRL3n8fv)
+  
   
   ## License
   
