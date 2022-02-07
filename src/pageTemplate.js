@@ -49,7 +49,7 @@ const generateEmployeeCardHtml = (employeeData) => {
                             <p>Email: <a href = "mailto: ${employee.getEmail()}">${employee.getEmail()}</a></p>
                         </div>
                         <div class="border mb-2" id="employeeInfo">
-                            <p>GitHub: <a href="https://github.com/${employee.github}">${employee.github}</a></p>
+                            <p>GitHub: <a href="https://github.com/${employee.github}" target="_blank" >${employee.github}</a></p>
                         </div>
                     </div>
                 </div>
